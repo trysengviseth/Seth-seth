@@ -1,38 +1,12 @@
-<div align="center">
+<!-- Matrix-style GitHub Profile -->
+![Matrix Rain](https://i.gifer.com/origin/5e/5eec11f41e3e6e3c47e4c9e4b36732c7_w200.gif)
 
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Seth!;Developer+%26+Tech+Enthusiast;From+Cambodia+🇰🇭" />
-</h1>
+<h1 align="center">👾 Welcome to <YOUR NAME>'s Matrix 👾</h1>
 
-<!-- Floating Icons Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello+World;I+am+a+Software+Developer;Welcome+to+my+digital+space" alt="Typing SVG" />
+</p>
 
-</div>
-
-## 🚀 About Me
-
-<div align="center">
-
-```javascript
-// Seth's Digital Profile
-const seth = {
-  location: "Cambodia 🇰🇭",
-  personality: "Introvert Creative",
-  passions: [
-    "💻 Software Development", 
-    "🔧 Open Source Projects",
-    "🎮 Gaming & Technology",
-    "📸 Photography & Videography"
-  ],
-  currentFocus: "Web Development & System Tools",
-  hobbies: [
-    "🎧 Listening to Music",
-    "🐧 Exploring Linux",
-    "🎬 Video Editing",
-    "📷 Shooting Photos"
-  ],
-  quote: "Building digital solutions with attention to detail"
-};
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=matrix&hide_border=true" />
+</p>
